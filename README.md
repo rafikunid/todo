@@ -15,7 +15,8 @@ Proyek ini masih dalam tahap pengembangan dan beberapa fitur masih dalam perbaik
 
 ## Anggota Tim
 
-Proyek ini dikerjakan oleh 4 orang anggota tim sebagai berikut:
+Proyek ini dikerjakan oleh 3
+orang anggota tim sebagai berikut:
 Julio Anggara	 (23050974194101)
 Rafi Putra Bagus Riadi (23050974110)
 Ainur Rofiq    	(23050974114)
