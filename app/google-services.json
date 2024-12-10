@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "850344718731",
+    "project_id": "odolits",
+    "storage_bucket": "odolits.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850344718731:android:b1dd555851c6669ac5bf8e",
+        "android_client_info": {
+          "package_name": "com.example.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCK2lCHs1On3UJdl_Qqfy5B5zeWiZV731s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
